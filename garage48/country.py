@@ -2,7 +2,7 @@ import json
 from fuzzywuzzy import fuzz
 
 
-text = open('data/country.json', 'r').read()
+text = open('references/country.json', 'r').read()
 countries = json.loads(text)['RECORDS']
 
 
