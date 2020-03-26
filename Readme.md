@@ -9,7 +9,7 @@ Crawlers needed to add more groups into the project database. And this one is on
 Is one of the similar project and this one is simple tool to get a quick data.
 
 ### Install
-> Mac os, just run `make install` && `make run` then the data will be updated int the `output/group_list.json`
+> Mac os, just run `make install && make run` then the data will be updated int the `output/group_list.json`
 
 Install dependencies:
 ```bash
