@@ -1,5 +1,5 @@
 install
     pip install -r requirements.txt
 
-update:
+run:
     python main.py
